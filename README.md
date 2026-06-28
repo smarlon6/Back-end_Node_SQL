@@ -23,7 +23,7 @@ Projeto desenvolvido para a disciplina de **Back-end Node.js com SQL**.
 - Node.js
 - Express
 - Sequelize (ORM)
-- SQLite (desenvolvimento) — facilmente substituível por PostgreSQL/MySQL via variáveis de ambiente
+- SQLite 
 - JSON Web Token (jsonwebtoken)
 - bcryptjs
 - cookie-parser
@@ -32,7 +32,7 @@ Projeto desenvolvido para a disciplina de **Back-end Node.js com SQL**.
 
 ## Pré-requisitos
 
-- Node.js instalado (versão 18 ou superior recomendada)
+- Node.js instalado
 - npm
 
 ## Instalação
